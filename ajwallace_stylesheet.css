@@ -154,10 +154,9 @@ button:hover {
   color: rgb(30, 32, 33);  
 }
 
-a {
-    color: rgba(0,0,0,0)
+
 }
-a:hover {
+.music.btn:hover {
   cursor: pointer;
   background-color: rgb(215, 215, 215);
   color: rgb(30, 32, 33);  
